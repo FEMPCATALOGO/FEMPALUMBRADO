@@ -22,7 +22,7 @@ classes: wide
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Urbanismo e infraestructuras   alumbrado publico  | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/alumbrado-publico/index-en.html)* *[Repositorio]https://github.com/opencitydata/urbanismo-infraestructuras-alumbrado-publico)*  |  *[Generar issue](https://github.com/opencitydata/urbanismo-infraestructuras-alumbrado-publico/issues)*   | Vocabulario para la representación de puntos de alumbrado.  | 05/03/16 | esalum | rdf+xml   html   turtle | CC-BY  | es   en   |
+| Urbanismo e infraestructuras   alumbrado publico  | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/alumbrado-publico/index-en.html)* *[Repositorio](https://github.com/opencitydata/urbanismo-infraestructuras-alumbrado-publico)*  |  *[Generar issue](https://github.com/opencitydata/urbanismo-infraestructuras-alumbrado-publico/issues)*   | Vocabulario para la representación de puntos de alumbrado.  | 05/03/16 | esalum | rdf+xml   html   turtle | CC-BY  | es   en   |
  
  
   
